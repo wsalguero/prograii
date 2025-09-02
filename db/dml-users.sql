@@ -14,5 +14,3 @@ select  id
         email
         -- ....
     where email = "example@email.com"
-
-
